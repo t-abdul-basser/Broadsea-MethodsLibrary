@@ -1,7 +1,5 @@
 version: '2'
-
 services:
-
   broadsea-methods-library:
     image: ohdsi/broadsea-methodslibrary
     ports:
